@@ -11,6 +11,7 @@
 		AC9F228628D25D400065977F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9F228528D25D400065977F /* ContentView.swift */; };
 		AC9F228828D25D410065977F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC9F228728D25D410065977F /* Assets.xcassets */; };
 		AC9F228B28D25D410065977F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC9F228A28D25D410065977F /* Preview Assets.xcassets */; };
+		AC9F229228D25DE90065977F /* 59393C55-C340-459C-A978-CC3F25D4A470_1_105_c.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AC9F229128D25DE90065977F /* 59393C55-C340-459C-A978-CC3F25D4A470_1_105_c.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AC9F228528D25D400065977F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AC9F228728D25D410065977F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC9F228A28D25D410065977F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AC9F229128D25DE90065977F /* 59393C55-C340-459C-A978-CC3F25D4A470_1_105_c.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "59393C55-C340-459C-A978-CC3F25D4A470_1_105_c.jpeg"; path = "../../../../Pictures/Photos Library.photoslibrary/resources/derivatives/5/59393C55-C340-459C-A978-CC3F25D4A470_1_105_c.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				AC9F228328D25D400065977F /* UdderApp.swift */,
+				AC9F229128D25DE90065977F /* 59393C55-C340-459C-A978-CC3F25D4A470_1_105_c.jpeg */,
 				AC9F228528D25D400065977F /* ContentView.swift */,
 				AC9F228728D25D410065977F /* Assets.xcassets */,
 				AC9F228928D25D410065977F /* Preview Content */,
@@ -127,6 +130,7 @@
 			files = (
 				AC9F228B28D25D410065977F /* Preview Assets.xcassets in Resources */,
 				AC9F228828D25D410065977F /* Assets.xcassets in Resources */,
+				AC9F229228D25DE90065977F /* 59393C55-C340-459C-A978-CC3F25D4A470_1_105_c.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
